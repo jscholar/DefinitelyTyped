@@ -12,6 +12,7 @@ export interface TwixFormatOptions {
     showDayOfWeek?: boolean | undefined;
     twentyFourHour?: boolean | undefined;
     implicitMinutes?: boolean | undefined;
+    implicitDate?: boolean | undefined;
     implicitYear?: boolean | undefined;
     yearFormat?: string | undefined;
     monthFormat?: string | undefined;
